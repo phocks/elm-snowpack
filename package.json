@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "snowpack dev",
+    "dev": "snowpack dev",
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "snowpack build"
   },
